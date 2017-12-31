@@ -1,6 +1,6 @@
 // Postfix Calculator Applet
 //
-// CS 201 HW 8  
+// CS 201 Data Structures - HW 8  
 // Connor Hanify
 // Professor Scharstein
 
