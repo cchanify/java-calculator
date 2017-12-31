@@ -1,3 +1,3 @@
 # java-calculator
 
-Prefix Java calculator with GUI.
+Postfix Java calculator applet. Written for cs201 Data Structures class. 
